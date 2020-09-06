@@ -1,2 +1,1 @@
-# stock_analysis
-stock analysis using fb prophet
+Stock analysis is the method used by a trader or investor to examine and evaluate the stock market. It is then used to make informed decisions about buying and selling shares. Stock analysis can also be referred to as market analysis, or equity analysis.
